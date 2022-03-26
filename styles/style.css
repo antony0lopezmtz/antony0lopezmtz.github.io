@@ -1,0 +1,53 @@
+﻿html, body{
+  height: 100%;
+  background-color: #540e0e;
+  font-size: 20px;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+img {
+margin: auto;
+display: block;
+}
+
+.entry-content .mejs-container .mejs-controls {
+    background: #932;
+}
+
+.contenedor1 {
+
+  
+  width: 90%;
+  background-color: #832d18;
+  border: 3px solid #ededaf; 
+  margin: auto auto;
+
+}
+
+.contenedor2 {
+
+  
+  width: 60%;
+  background-color: #b1501a;
+  text-align: center;
+  border: 3px solid #ededaf; 
+  margin: auto auto;
+
+}
+
+.centro {
+
+  margin: auto;
+  width: 97%;
+  text-align: justify;
+
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+
+  background-color: #FFF49B;
+  
+}
+
